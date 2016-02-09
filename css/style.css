@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: black;
+    overflow: hidden;
+}
+
+.titlearea {
+	font-size: 40px;
+	font-family: Impact, Charcoal, sans-serif;
+	color: red;
+	padding-bottom: -50px;
+}
+
+.Directions {
+	height: 600px;
+	width: 330px;
+	font-size:2em;
+	position: fixed;
+	top:100px;
+    bottom: 0;
+    right: 500;
+}
+
+#directiontext {
+	color:white;
+
+}
